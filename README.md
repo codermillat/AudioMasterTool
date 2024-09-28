@@ -9,8 +9,8 @@ AudioCraft is an audio processing tool that allows users to download audio from 
 - **Silence Removal**: Automatically detect and remove silent segments from vocal tracks.
 - **Audio Chunking**: Split cleaned audio into smaller, manageable segments based on specified parameters.
 - **Google Drive Integration**: Save results directly to Google Drive for easy access and storage.
-- **Flexible Input Sources: Download audio directly from YouTube or use audio files stored on Google Drive.
-- **Customizable Parameters: Adjust settings like silence threshold, chunk length, and more to suit your specific needs.
+- **Flexible Input Sources**: Download audio directly from YouTube or use audio files stored on Google Drive.
+- **Customizable Parameters**: Adjust settings like silence threshold, chunk length, and more to suit your specific needs.
 
 ## How to Use
 
